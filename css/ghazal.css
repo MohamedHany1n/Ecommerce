@@ -365,7 +365,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-image: url("/images/banner/b17.jpg");
+  background-image: url("../images/banner/b17.jpg");
   min-width: 650px;
   height: 50vh;
   background-size: cover;
@@ -374,7 +374,7 @@ body {
 }
 
 #sm-bannar .bannar-box2 {
-  background-image: url("/images/banner/b10.jpg");
+  background-image: url("../images/banner/b10.jpg");
 }
 
 #sm-bannar .bannar-box h4 {
@@ -410,7 +410,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("/images/banner/b7.jpg");
+    background-image: url("../images/banner/b7.jpg");
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -420,11 +420,11 @@ body {
   }
 
   #bannar-3 .bannar-box2 {
-    background-image: url("/images/banner/b4.jpg");
+    background-image: url("../images/banner/b4.jpg");
   }
   
   #bannar-3 .bannar-box3 {
-    background-image: url("/images/banner/b18.jpg");
+    background-image: url("../images/banner/b18.jpg");
   }
 
   #bannar-3 h2 {
@@ -444,7 +444,7 @@ body {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  background-image: url("/images/banner/b14.png");
+  background-image: url("../images/banner/b14.png");
   height: 30vh;
   background-size: cover;
   background-position: 20% 30%;
